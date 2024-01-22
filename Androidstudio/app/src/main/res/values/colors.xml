@@ -1,0 +1,8 @@
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="dark_background_color">#222222</color>
+    <color name="light_text_color">#FFFFFF</color>
+    <color name="light_secondary_text_color">#CCCCCC</color>
+    <color name="custom_button_color">#C147E9</color>
+    <!-- Add other color values as needed -->
+</resources>
